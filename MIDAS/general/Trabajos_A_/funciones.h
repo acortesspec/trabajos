@@ -1,0 +1,1 @@
+void capitalaicer(char *str);
